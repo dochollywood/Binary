@@ -1,6 +1,4 @@
-// Digital Logic Assignment 1
-// Brian J Gardner
-// Prof Chankaya
+
 
 import java.util.ArrayList;
 import java.util.List;
